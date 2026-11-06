@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Task4_ArrayInputWhile" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ru.mirea.kulikov.pr1.basics.ArrayInputWhile" />
+    <module name="PR1_Kulikov" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>

@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Task5_CommandLineArgs" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ru.mirea.kulikov.pr1.basics.CommandLineArgs" />
+    <module name="PR1_Kulikov" />
+    <option name="PROGRAM_PARAMETERS" value="Куликов УИБО-03-24 Java 2026" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>
