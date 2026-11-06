@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Classes_Task2_A" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ru.mirea.kulikov.pr1.classes.task2.A" />
+    <module name="PR1_Kulikov" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>

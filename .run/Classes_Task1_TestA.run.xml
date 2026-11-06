@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Classes_Task1_TestA" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ru.mirea.kulikov.pr1.classes.task1.TestA" />
+    <module name="PR1_Kulikov" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>
